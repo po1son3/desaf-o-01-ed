@@ -3,6 +3,9 @@
 h1 {
     background-color: brown;
 }
+img {
+    width: 300px;
+}
 
 .rojo {
 color: red;
