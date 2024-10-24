@@ -1,4 +1,4 @@
-# Entrega del primero desafío 
+# Entrega del segundo desafío 
 Hola, un placer ser parte de este curso, estoy con ansias de seguir progresando.
 
 ## Puntos a destacar
